@@ -2,7 +2,7 @@
 
 **Senior Full-Stack & AI Engineer** — Nairobi, Kenya 🇰🇪
 
-TypeScript / Node.js · React / Next.js · Python · PostgreSQL · LangGraph.js / MCP
+TypeScript/Golang / Node.js · React / Next.js · Python · PostgreSQL · LangGraph.js / MCP
 
 Most of my production work lives in private client repositories — fintech,
 industrial IoT, and AI agent systems. Highlights:
